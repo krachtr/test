@@ -1,4 +1,3 @@
-anaconda-client @ file:///home/conda/feedstock_root/build_artifacts/anaconda-client_1632453752331/work
 anaconda-navigator==2.2.0
 ansi2html==1.7.0
 backports.tempfile==1.0
@@ -33,21 +32,4 @@ PyQt5==5.15.7
 pywin32==303
 retrying==1.3.3
 smmap==5.0.0
-sniffio @ file:///D:/bld/sniffio_1648819365674/work
-soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1638550740809/work
-stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1655315839047/work
-terminado @ file:///D:/bld/terminado_1652790835377/work
-tinycss2 @ file:///home/conda/feedstock_root/build_artifacts/tinycss2_1637612658783/work
-toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
-tornado @ file:///D:/bld/tornado_1656937934674/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
-traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1655411388954/work
-ujson @ file:///D:/bld/ujson_1653057628323/work
-unicodedata2 @ file:///D:/bld/unicodedata2_1649112114189/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1657224465922/work
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 webencodings==0.5.1
-websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1655796432389/work
-widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1655939017940/work
-win-inet-pton @ file:///D:/bld/win_inet_pton_1648771910527/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
