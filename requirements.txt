@@ -22,7 +22,6 @@ ply==3.11
 ptyprocess==0.7.0
 pyarrow==8.0.0
 PyQt5==5.15.7
-pywin32==303
 retrying==1.3.3
 smmap==5.0.0
 webencodings==0.5.1
