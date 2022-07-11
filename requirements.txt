@@ -1,9 +1,6 @@
 ansi2html==1.7.0
 backports.tempfile==1.0
 Brotli==1.0.9
-conda==4.13.0
-conda-build==3.21.9
-conda-verify==3.4.2
 dash==2.3.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
