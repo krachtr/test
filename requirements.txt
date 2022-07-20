@@ -10,10 +10,11 @@ gitdb==4.0.9
 GitPython==3.1.27
 glob2==0.7
 ipython-genutils==0.2.0
-jupyter-dash==0.4.2
+#jupyter-dash==0.4.2
 jupyter-server-mathjax==0.2.5
 jupyterlab-git==0.37.1
-jupyterlab-dash
+#jupyterlab-dash
+lxml==4.9.1
 munkres==1.1.4
 nbdime==3.1.1
 perspective-python==1.5.0
